@@ -88,14 +88,6 @@ It serves as a **cheatsheet + notes + practice guide**.
 
 ---
 
-## 🚀 Next Steps
-- Learn **NumPy** (arrays, matrix operations)  
-- Learn **Pandas** (data analysis, DataFrames)  
-- Learn **Matplotlib / Seaborn** (data visualization)  
-- Start with **Machine Learning basics**  
-
----
-
 ## 🙌 Thank You
 This repo is a reflection of my **Python learning journey**.  
 Feel free to ⭐ star this repo if you also find it useful. 🚀  
